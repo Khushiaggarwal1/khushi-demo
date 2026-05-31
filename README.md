@@ -1,4 +1,4 @@
 # khushi-demo
 This is my first github repository
 <br>
-Author- Khushi Aggarwal
+Author- Khushi Aggarwal (thapar )
